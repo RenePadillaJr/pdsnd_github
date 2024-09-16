@@ -236,4 +236,5 @@ def main():
 
 
 if __name__ == "__main__":
-	main()
+    print("This is a new line of code. From Section IV: Refactor Code of Rubric")
+    main()
